@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.0.1",
-    "buildNumber": 1,
+    "version": "1.1.0",
+    "buildNumber": 3,
     "url": "https://play.google.com/store/apps/details?id=com.mavietampontimer.app"
   },
   "ios": {
-    "version": "1.0.1",
-    "buildNumber": 1,
+    "version": "1.1.0",
+    "buildNumber": 8,
     "url": "https://apps.apple.com/us/app/mavie-tampon-timer/id6775773345"
   },
   "message": "A new version is available. Please update to get the latest features."
